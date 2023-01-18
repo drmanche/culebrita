@@ -1,0 +1,1 @@
+//Aqui se encuentra la imagen del icono que se visualiza en la pestaña.
